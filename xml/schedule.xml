@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="schedule.xsl" type="text/xsl" ?>
+<schedule>
+	<class>
+		<week>Week 1</week>
+		<date>August 25</date>
+		<learning-objective>
+			<objective>Students will differentiate copyediting from comprehensive editing</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Introductions</activity>
+			<activity>Check for understanding: line-up</activity>
+			<activity>Syllabus and course review</activity>
+			<activity>Assign grammar diagnostic</activity>
+			<activity>Assign 8.1</activity>
+		</class-activities>
+		<readings>
+			<article>N/A</article>
+		</readings>
+		<assignments>
+			<homework>N/A</homework>
+		</assignments>
+	</class>
+		<class>
+		<week>Week 1</week>
+		<date>August 27</date>
+		<learning-objective>
+			<objective>Students will be able to correct sentences that have grammar errors.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Check for understanding: line-up</activity>
+			<activity>Review 8.1</activity>
+			<activity>Lecture - Grammar Review</activity>
+			<activity>Grammar races</activity>
+			<activity>Assign practice copyediting test</activity>
+		</class-activities>
+		<readings>
+			<article>Rude Chapters 4, 8, 9, and 10.</article>
+		</readings>
+		<assignments>
+			<homework>Grammar Diagnostic</homework>
+			<homework>8.1- Stem Cell Research</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 2</week>
+		<date>September 3</date>
+		<learning-objective>
+			<objective>Students will be able to correct sentences that have punctuation errors.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Check for understanding- class line up</activity>
+			<activity>Discussion of readings</activity>
+			<activity>Lecture - Punctuation</activity>
+			<activity>Punctuation Race</activity>
+			<activity>Assign 4.3</activity>
+		</class-activities>
+		<readings>
+			<article>Rude Chapters 11, 12, and 13</article>
+			<article_url><description>Taking an editing test: The devil's in the details</description>
+				<url>http://www.geoff-hart.com/resources/2003/edit-test.htm</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Write a 300-word response to the article "Taking an Editing test". Guiding Question: What strategies will you use as you prepare for your editing test and why?</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 3</week>
+		<date>September 8</date>
+		<learning-objective>
+			<objective>Students will be able to complete a timed copyediting test.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Warm-up activity</activity>
+			<activity>Copyediting Quiz (Grammar and punctuation)</activity>
+		</class-activities>
+		<readings>
+			<article>No readings for this week. You'll be working to finish your first project</article>
+		</readings>
+		<assignments>
+			<homework>Practice copyediting test due</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 4</week>
+		<date>September 15</date>
+		<learning-objective>
+			<objective>Students will understand how and why to use the Chicago Manual of Style.</objective>
+		
+		</learning-objective>
+		<class-activities>
+			<activity>Check for understanding activity</activity>
+			<activity>Review 4.3</activity>
+			<activity>Review of the Chicago Manual of Style</activity>
+			<activity>Chicago Scavenger Hunt</activity>
+			<activity>Assign Copyediting Test</activity>
+		</class-activities>
+		<readings>
+			<article>Rude Chapters 2 and 14</article>
+			
+		</readings>
+		<assignments>
+			<homework>Complete exercise 4.3</homework>
+		
+		</assignments>
+	</class>
+	<class>
+		<week>Week 4</week>
+		<date>September 17</date>
+		<learning-objective>
+			<objective>Students will apply their knowledge of copyediting to distinguish copyediting from comprehensive editing.</objective>
+			
+		</learning-objective>
+		<class-activities>
+			<activity>Check for understanding activity</activity>
+			<activity>Q+A regarding copyediting</activity>
+			<activity>Editorial judgement calls</activity>
+		</class-activities>
+		<readings>
+			
+			<article>Chapters 1 through 4 in <author>Cowan</author> textbook</article>
+		</readings>
+		<assignments>
+			<homework>Add at least 10 tags to your HTML page and update it in your GitHub respository</homework>
+			
+		</assignments>
+	</class>
+	<class>
+		<week>Week 6</week>
+		<date>October 6</date>
+		<learning-objective>
+			<objective>Students will be able to style basic elements of an HTML page using CSS</objective>
+			<objective>Students will understand the purpose of XML transformations</objective>
+			<objective>Students will be able to use XSLT to transform an existing XML data into an HTML table</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Check for understanding activity</activity>
+			<activity>Discuss readings</activity>
+			<activity>Lecture on XSLT transformations</activity>
+			<activity>Convert existing dataset into HTML table</activity>
+			<activity>Learn to apply simple CSS styles to the table</activity>
+		</class-activities>
+		<readings>
+			<article>Cowan chapters 5 and 7</article>
+			<article_url><description>Watch this 15 minute video on CSS.</description>
+				<url>https://www.youtube.com/watch?v=Wz2klMXDqF4</url>
+			</article_url>
+			<article_url><description>Watch this 18 minute video on XSLT.</description>
+				<url>https://www.youtube.com/watch?v=hzGG32kz9nc</url>
+			</article_url>
+			<article_url><description>Read and go through the XML examples provided by A list apart</description>
+				<url>http://alistapart.com/article/usingxml</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Reflect: Write a 300-word response in HTML. Answer the following question: What is XSLT and how is it useful for technical communicators? Commit and push to GitHub repository "5191-responses" in your folder.</homework>
+			<homework>Add .css file to your github repository. File must style at least 3 HTML elements</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 7</week>
+		<date>October 13</date>
+		<learning-objective></learning-objective>
+		<class-activities>
+			<activity>I will be in Pittsburgh for a conference. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Don't be afraid of XSLT (optional reading BUT very helpful)</description>
+				<url>http://www.ntg.nl/eurotex/DeBoerXSLT.pdf</url>
+			</article_url>
+			<article><author>Cowan</author> Chapter 8</article>
+		</readings>
+		<assignments>
+			<homework>Reflect: Write a short status report about your progress on the XML database project. Include questions at the end of the .txt file. Commit and push to GitHub repository "5191-responses" in your folder.</homework>
+			<homework>Show up for Google Hangout. Time TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 8</week>
+		<date>October 20</date>
+		<learning-objective></learning-objective>
+		<class-activities>
+			<activity>I will be in Japan for a presentation. We will schedule a time to do a Google Hangout. Please use class time to work on your XML database projects.</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Albers (2003). Single sourcing and technical communication career path</description>
+				<url>http://jazzoetry.net/tech-writing.pdf</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Reflect: Write a 300-word reflection. Use the following guiding question: How does Albers' article about single sourcing change your perspective about this class and your future as a technical communicator? Commit and push to GitHub repository "5191-responses" in your folder.</homework>
+			<homework>Show up for Google Hangout</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 9</week>
+		<date>October 27</date>
+		<learning-objective>
+			<objective>Students will be able to research and apply "just in time" information to topics relevant to technical communication</objective>
+			<objective>Students will be able to assess the quality of a source using an objective methodology</objective>
+			<objective>Students will be able to find relevant information using user forums</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Introduce Projects 3 and 4</activity>
+			<activity>Information literacy scavenger hunt and race (with prizes!)</activity>
+			<activity>Lecture- Introduction to research and user forums</activity>
+			<activity>Exploring javascript to output XML to HTML</activity>
+		</class-activities>
+		<readings>
+			<article><author>Spilka</author> Chapter 8: Addressing Audiences in a Digital Age</article>
+		</readings>
+		<assignments>
+			<homework>XML database project due. Send me a link to your GitHub repository.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 10</week>
+		<date>November 3</date>
+		<learning-objective>
+			<objective>Students will understand the value of single sourcing.</objective>
+			<objective>Students will know the basic principles of modular writing</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings</activity>
+			<activity>Lecture- Modular writing and single sourcing</activity>
+			<activity>Modular writing activity</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Watch this YouTube Video on MadCap Flare (6 minutes)</description>
+				<url>https://www.youtube.com/watch?v=83riPAybyzk</url>
+			</article_url>
+			<article_url><description>Coming to content managementInventing Infrastructure for Organizational Knowledge Work</description>
+				<url>http://www.rhetcomp.gsu.edu/~bgu/8121/TCQ-CMS(Hart-DavidsonEtAl).pdf</url>
+			</article_url>
+			<article_url><description>The impact of single sourcing and technology</description>
+				<url>http://pdf.aminer.org/000/592/394/creating_single_sourced_tutorials.pdf</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Reflect: Write a 300-word free response to the two articles assigned. Commit and push to GitHub repository.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 11</week>
+		<date>November 10</date>
+		<learning-objective>
+			<objective>Students will understand the value of planning in successful team projects.</objective>
+			<objective>Students will familiarize themselves with the MadCap Flare interface</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings</activity>
+			<activity>Lecture- Working in Teams</activity>
+			<activity>Create team charter and assign team roles</activity>
+			<activity>Select a topic and begin workflow document.</activity>
+			<activity>MadCap Flare Activity</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Watch this MadCap Flare Webinar on YouTube (60 minutes)</description>
+				<url>https://www.youtube.com/watch?v=jA_JI6t-nmE</url>
+			</article_url>
+		</readings>
+		<assignments>
+			<homework>Homework TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 12</week>
+		<date>November 17</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings</activity>
+			<activity>Lecture- Team presentations and progress reports</activity>
+			<activity>MadCap Flare workshop</activity>
+		</class-activities>
+		<readings>
+			<article>Do your own research to fill in the knowledge gaps of MadCap Flare</article>
+		</readings>
+		<assignments>
+			<homework>Continue to work on your persuasive memo.</homework>
+			<homework>You should be working in teams for your final project as well.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 13</week>
+		<date>November 24</date>
+		<learning-objective>
+			<objective>Students will be able to synthesize their experience in the course by connecting concepts and principles from the beginning to the end of the semester.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Discuss readings</activity>
+			<activity>Lecture- reflection and contextualization</activity>
+			<activity>MadCap Flare workshop time</activity>
+		</class-activities>
+		<readings>
+			<article>Readings TBA</article>
+		</readings>
+		<assignments>
+			<homework>Project 3 - Persuasive memo due. Create GitHub repository, add PDF files, and send me your link.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 14</week>
+		<date>December 3</date>
+		<learning-objective>
+			<objective>No new content this week.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Workshop- Attendance required</activity>
+			<activity>Course Evaluation</activity>
+		</class-activities>
+		<readings>
+			<article>No New Readings</article>
+		</readings>
+		<assignments>
+			<homework>Keep working on your final projects.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Finals Week</week>
+		<date>December 10</date>
+		<learning-objective>
+			<objective></objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Workshop- Attendance required</activity>
+		</class-activities>
+		<readings>
+			<article>No new readings</article>
+		</readings>
+		<assignments>
+			<homework>Project 4 due. Create GitHub repository, add files, and send me the link.</homework>
+		</assignments>
+	</class>
+</schedule>

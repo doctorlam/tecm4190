@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<head>
+  <xsl:output method="html" encoding="UTF-8"/>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
+
+<script language="javascript">
+function loadXMLDoc(dname)
+{
+    if (window.XMLHttpRequest)
+    {
+        xhttp=new XMLHttpRequest();
+    }
+    else
+    {
+        xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xhttp.open("GET",dname,false);
+try {xhttp.responseType = "msxml-document"} catch(err) {} // Helping IE11
+xhttp.send("");    
+return xhttp.responseXML;
+}
+function displayResult()
+{
+  // var xml;
+   //var xsl;
+   //var ex;
+   //var resultDocument
+   
+   xml = loadXMLDoc("xml/schedule.xml");
+   xsl = loadXMLDoc("xml/schedule.xsl");
+   // code for IE
+   if (window.ActiveXObject)
+   {
+        ex=xml.transformNode(xsl);
+        document.getElementById("example").innerHTML=ex;
+   }
+   
+   // code for Mozilla, FireFox, Opera, etc.
+   else if (document.implementation && document.implementation.createDocument)
+   {
+        xsltProcessor=new XSLTProcessor();
+        xsltProcessor.importStylesheet(xsl);
+        resultDocument = xsltProcessor.transformToFragment(xml,document);
+        document.getElementById("example").appendChild(resultDocument);
+   }
+}
+</script>
+
+</head>
+<body onload="displayResult()">
+<div id = "container">
+   <header>
+       <h1><a href="index.html">TECM 4190 - Technical Editing</a></h1>
+      <h2><i>An undergraduate course covering the core competencies of editing technical content.</i></h2>
+       
+      <ul>
+          <li>Dr. Chris Lam</li>
+          <li>Assistant Professor of Technical Communication</li>
+          <li>christopher.lam at unt dot edu</li>
+      </ul>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+        <li class="current"><a href="schedule.html">Schedule</a></li>
+        <li><a href="projects.html">Projects</a></li>
+      <li><a href="policies.html">Policies</a></li>
+        <li><a href="resources.html">Resources</a></li>
+    </ul>
+  </nav>
+<div id="example" />
+</div>
+</body>
+</html>

@@ -1,4 +1,4 @@
-tecm4180
+tecm5191
 ========
 
-Course Website for Technical Editing
+course website for tecm5191- digital literacies for technical communicators

@@ -1,0 +1,311 @@
+/* Global Styles */
+body {
+	background-color: #333333;
+}
+#container {
+	max-width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header {
+	color:white;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+header h1 a {
+	color:white;
+	text-decoration: none;
+}
+header h1 a:visited {
+	color:white;
+	text-decoration: none;
+}
+header ul {
+	list-style: none;
+	padding: 0;
+	font-size:14px;
+	font-family: 'Open Sans', sans serif;	
+
+}
+header ul li {
+	margin-bottom: 0;
+	padding: 0;
+	margin-left: 0;
+	color: white;
+	font-size: 14px;
+
+}
+header h2 {
+
+	font-size:16px;
+	border-bottom: none;
+	margin-top:-20px;
+	padding-bottom:20px;
+	border-top:none;
+	font-family: 'Open Sans', sans serif;
+	font-size: 14px;
+	
+}
+h2 {
+	color:white;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 24px;
+	border-bottom: 1px #336ca6 dotted;
+}
+h4 {
+	color: #FFF6ED;
+	margin-left: 5%;
+	font-family: 'Bitter', serif;
+	font-size: 16px;
+	border-bottom: 1px solid white;
+}
+
+/* Navigation Bar */
+nav {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color:white;
+	margin-top:2.5em;
+}
+nav ul li{
+	display: inline;
+	font-size:18px;
+	margin-right: 3em;
+
+}
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 10px 10px 22px 10px;
+}
+
+nav ul li a:visited {
+	color:white;
+}
+
+.current a {
+	background: #531123; /* TO ADAPT SITE: Use Darker Color Here */
+
+}
+
+/* Main Content Area */
+.main-content {
+	background-color:#7D1935; /* TO ADAPT SITE: Use lighter Color Here */
+	font-family: 'Open Sans', sans-serif;
+	min-height: 400px;
+	padding-bottom: 20px;
+
+}
+.main-content h3 {
+	background:#531123; /* TO ADAPT SITE: Use Darker Color Here */
+	color:white;
+	font-size: 20px;
+	font-weight: normal;
+	font-family: 'Bitter', serif;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top:10px;
+	padding-bottom: 10px;
+
+}
+.main-content p {
+	font-size:14px;
+	color: #FFF6ED;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 7%;
+	width:80%;
+	line-height: 1.4;
+	margin-bottom: 20px;
+}
+.main-content ul li {
+	font-size: 14px;
+	font-family: 'Open Sans'; 
+	margin-left: 5%;
+	margin-top: 14px;
+	color: #FFF6ED;
+	line-height:1.4;
+	width:80%;
+	list-style-type: square;
+}
+.main-content ol li {
+	font-size: 14px;
+	font-family: 'Open Sans'; 
+	margin-left: 5%;
+	margin-top: 14px;
+	color: #FFF6ED;
+	line-height:1.4;
+	width:80%;
+}
+.main-content ul li ul li, .main-content ol li ul li {
+	margin-left: 0px;
+}
+.main-content ul li ol li {
+	margin-left: 0px;
+	list-style-type: decimal;
+	}
+.main-content ul li a {
+	color: #FFF6ED;
+	text-decoration: none;
+}
+.main-content a.reading_link {
+	color: #FFF6ED;
+	text-decoration: underline;
+}
+
+/* Table Styles */
+
+table { 
+		width: 100%;
+		border-collapse: collapse; 
+		font-family: 'Open Sans', sans serif;
+        background: #7D1935; /* TO ADAPT SITE: Use lighter Color Here */
+        font-size: 14px;
+        color: white;
+	}
+
+td.narrow {
+	width: 5%;
+	text-align: center;
+}
+td.medium {
+	width: 10%;
+}
+td.wide {
+	width: 20%;
+}
+/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: #531123; /* TO ADAPT SITE: Use Darker Color Here */
+	}
+	
+	th { 
+		background: #531123; 
+		color: white; 
+		font-weight: normal;
+		font-size: 14px;
+		font-family:'Bitter', serif;
+		padding: 1em;
+		text-align: center;
+	}
+
+/* Responsive Layouts */
+
+	@media only screen and (max-width: 760px),
+	(min-device-width: 768px) and (max-device-width: 1024px)  {
+		
+		nav ul li a {
+			text-decoration: none;
+			color: white;
+			padding:10px;
+		}
+		
+		nav ul li{
+
+				display: block;		
+				text-align: center;		
+				padding: 7px;
+			}
+	
+	
+		header {
+			text-align: center;
+		}
+		
+		/* Force table to not be like tables anymore */
+		table, thead, tbody, th, td, tr { 
+			display: block; 
+			font-size: 14px;
+
+		}
+		table ul li {
+			font-size: 14px;
+			padding-bottom:8px;
+		}
+
+		/* Hide table headers (but not display: none;, for accessibility) */
+		th { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+		
+		tr { 
+			border: 1px solid #7D1935; 
+		}
+
+		
+		td { 
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px solid gray; 
+			position: relative;
+			padding-left: 40%; 
+
+		}
+		td.narrow {
+			text-align:left;
+			padding-bottom: 5px;
+		}
+		
+		td:before { 
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top:6px;
+			left: 6px;
+			width: 45%; 
+			white-space: nowrap;
+		}
+		td.wide, td.medium, td.narrow {
+			width: 50%;
+		}
+		td.narrow {
+			font-weight: bold;
+			font-size: 18px;
+			font-family: 'PT Sans Narrow', sans-serif;
+		}
+
+		table ul{
+			width: 100%;
+			margin-top:-3px;
+		}
+		.main-content table ul li {
+			margin-left: -2em;
+			width: 100%;
+			margin-top: 8px;
+		}
+	
+		/*
+		Label the data
+		*/
+		td:nth-of-type(1):before { content: "Week"; }
+		td:nth-of-type(2):before { content: "Date"; }
+		td:nth-of-type(3):before { content: "Objectives"; }
+		td:nth-of-type(4):before { content: "Activties"; }
+		td:nth-of-type(5):before { content: "Read"; }
+		td:nth-of-type(6):before { content: "Homework"; }
+	}
+}
+	
+	/* Smartphones (portrait and landscape) ----------- */
+	@media only screen
+	and (min-device-width : 320px)
+	and (max-device-width : 480px) {
+			
+
+	
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+
+	nav ul li{
+				display: inline;
+		}
+		nav ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 10px 10px 20px 10px;
+}
+		
+}
+
