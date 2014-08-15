@@ -339,5 +339,216 @@
 			<homework>Job Materials Project Due</homework>
 		</assignments>
 	</class>
+	<class>
+		<week>Week 10</week>
+		<date>October 27</date>
+		<learning-objective>
+			<objective>Students will understand the nuances of ESL editing</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review and recap. Discuss readings.</activity>
+			<activity>ESL lecture and discussion</activity>
+			<activity>Assign open heart surgery homework</activity>
+		</class-activities>
+		<readings>
+			<article_url><description>Eaton et al. (2008). Comparing Cultural Perceptions of Editing from the Author’s Point of View</description>
+				<url>#</url>
+		</article_url>
+		</readings>
+		<assignments>
+			<homework>Write a 300-word response to the Eaton et al. article. Summarize the article and discuss how it is relevant to your ESL project. Upload to Blackboard.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 10</week>
+		<date>October 29</date>
+		<learning-objective>
+			<objective>Students will be able to understand and edit complex or technical content not in their subject-matter area.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review open heart surgery. 5 people will share.</activity>
+			<activity>Subject-matter research activity</activity>
+			<activity>Assign subject-matter scavenger hunt</activity>
+		</class-activities>
+		<readings>
+			<article>Rude chapters 17, 18, and 19</article>
+		</readings>
+		<assignments>
+			<homework>Open Heart Surgery</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 11</week>
+		<date>November 3</date>
+		<learning-objective>
+			<objective>Students will understand the conventions of an empirical research article.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review subject-matter scavenger hunt</activity>
+			<activity>Empirical research lecture and discussion</activity>
+			<activity>Consuming research activity</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Subject-matter scavenger hunt</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 11</week>
+		<date>November 5</date>
+		<learning-objective>
+			<objective>Students will understand how editing websites differs from editing traditional print documents.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review research activity</activity>
+			<activity>Editing for the web lecture</activity>
+			<activity>Heurisitc evaluation activity</activity>
+			<activity>Assign proposal for final project</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Vote!</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 12</week>
+		<date>November 10</date>
+		<learning-objective>
+			<objective>Students will understand the core principles of visual design for web and print documents.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review and discuss readings</activity>
+			<activity>Visual design lecture</activity>
+			<activity>Visual design activty</activity>
+			<activity>Assign design assignment</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Proposal for final project</homework>
+		</assignments>
+	</class>
+			<class>
+		<week>Week 12</week>
+		<date>November 12</date>
+		<learning-objective>
+			<objective>Students will understand the core principles of information architecture as it relates to technical editing.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review and discuss readings</activity>
+			<activity>Information architecture lecture</activity>
+			<activity>Hierarchy activty</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Continue working on final project.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 13</week>
+		<date>November 17</date>
+		<learning-objective>
+			<objective>Review of comprehensive editing</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Today's class will be used as a review and a time to answer any lingering questions regarding the final project.</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Come with 3 specfic questions about your final project.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 14</week>
+		<date>November 24</date>
+		<learning-objective>
+			<objective>Students will be introdcued the concepts of entrepreneurship as it relates to technical editing.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review and discuss readings</activity>
+			<activity>Entrepreneurship lecture</activity>
+			<activity>Workshop time</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 14</week>
+		<date>November 26</date>
+		<learning-objective>
+			<objective>Workshop day</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Work on your final projects</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 15</week>
+		<date>December 1</date>
+		<learning-objective>
+			<objective>Students will understand the overall importance and core principles of technical editing.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Semester review</activity>
+			<activity>Course evaluation</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+		<class>
+		<week>Week 15</week>
+		<date>December 3</date>
+		<learning-objective>
+			<objective>Workshop</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Come to class prepared to work on your final projects.</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>TBA</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Finals Week</week>
+		<date>December 10</date>
+		<learning-objective>
+			<objective>No new content</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Come to class prepared to work on your final projects.</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Final project due by 3:30pm on Wednesday, December 10.</homework>
+		</assignments>
+	</class>
 
 </schedule>
