@@ -166,6 +166,7 @@
 			<activity>Comprehensive Editing lecture</activity>
 			<activity>In-Class Practice</activity>
 			<activity>Get into style presentation groups</activity>
+			<activity>Handout Wolfe reading and assign team role homework</activity>
 		</class-activities>
 		<readings>
 			<article>Rude Chapter 14</article>
@@ -183,12 +184,13 @@
 		<class-activities>
 			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
+			<activity>Create team charter</activity>
 		</class-activities>
 		<readings>
-			<article>Rude Chapter 14</article>
+			<article>Team writing chapter from Joanna Wolfe (will handout in previous class)</article>
 		</readings>
 		<assignments>
-			<homework>Copyediting Exam Due</homework>
+			<homework>Come to class with a written set of team roles</homework>
 		</assignments>
 	</class>
 	<class>
@@ -208,7 +210,7 @@
 			<article>Rude Chapter 17</article>
 		</readings>
 		<assignments>
-			<homework>Come to class with a client who needs job materials edited.</homework>
+			<homework>A 150-300 word summary of client who needs job materials edited. Include information about the client, their career, and the job sector for which they are applying to. Upload to Blackboard.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -280,7 +282,7 @@
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Style Videos are Due</homework>
+			<homework>Style Videos are Due. Upload to YouTube.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -295,12 +297,16 @@
 			<article_url><description>Mackiewicz and Riley (2003)- The Technical Editor as Diplomat</description>
 				<url>http://courses.christopherylam.com/5195/wp-content/uploads/2013/01/MackiewiczRiley_Linguistic-Strategies.pdf</url>
 			</article_url>
+			<article_url><description>Albers and Marsella (2011). An analysis of student comments in comprehensive editing</description>
+				<url>http://techcomm.stc.org/wp-content/uploads/2011/04/art06.pdf</url>
+			</article_url>
 			<article_url><description>Watch this YouTube Video Lecture on Linguistic Politeness and phrasing editorial comments</description>
 				<url>#</url>
 		</article_url>
 		</readings>
 		<assignments>
-			<homework>Write a 500-word summary of the Mackiewicz and Riley article. Include specific strategies you will use in your own editing project. Upload to Blackboard.</homework>
+			<homework>Write a 500-word summary of the two articles assigned. Include at least 5-7 specific strategies you will use in your own editing project. Extra credit opportunity- Write a 1500-word compare and contrast article of the two readings and include specific strategies you will use in your editing. Upload to Blackboard.</homework>
+			<homework>OPTIONAL: Copyediting retake is due</homework>
 		</assignments>
 	</class>
 	<class>
@@ -313,7 +319,7 @@
 			<activity>I'll be taking questions via email and/or video chat</activity>
 		</class-activities>
 		<readings>
-			<article_url><description>Watch this YouTube Video Lecture</description>
+			<article_url><description>Watch this YouTube Video Lecture on the client memo genre.</description>
 				<url>#</url>
 		</article_url>
 		</readings>
@@ -331,12 +337,10 @@
 			<activity>I'll be taking questions via email and/or video chat</activity>
 		</class-activities>
 		<readings>
-			<article_url><description>Watch this YouTube Video Lecture</description>
-				<url>#</url>
-		</article_url>
+			<article>No readings due this week.</article>
 		</readings>
 		<assignments>
-			<homework>Job Materials Project Due</homework>
+			<homework>Job Materials Project Due. Upload to Blackboard.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -346,11 +350,15 @@
 			<objective>Students will understand the nuances of ESL editing</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Review and recap. Discuss readings.</activity>
+			<activity>Review and recap/discuss readings.</activity>
 			<activity>ESL lecture and discussion</activity>
+			<activity>ESL application activity</activity>
 			<activity>Assign open heart surgery homework</activity>
 		</class-activities>
 		<readings>
+			<article_url><description>ESL: When editing becomes educating</description>
+				<url>http://www.bothell.washington.edu/wacc/teaching/esl/esl-editing</url>
+			</article_url>
 			<article_url><description>Eaton et al. (2008). Comparing Cultural Perceptions of Editing from the Author’s Point of View</description>
 				<url>#</url>
 		</article_url>
@@ -389,7 +397,9 @@
 			<activity>Consuming research activity</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article_url><description>Writing the empirical social science research paper: A guide for the perplexed</description>
+				<url>https://www.apa.org/education/undergrad/empirical-social-science.pdf</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>Subject-matter scavenger hunt</homework>
@@ -427,10 +437,10 @@
 			<activity>Assign design assignment</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article>Rude chapter 19</article>
 		</readings>
 		<assignments>
-			<homework>Proposal for final project</homework>
+			<homework>300-word proposal for final project. Upload to Blackboard.</homework>
 		</assignments>
 	</class>
 			<class>
@@ -445,7 +455,9 @@
 			<activity>Hierarchy activty</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article_url><description>Complete beginner's guide to information architecture</description>
+				<url>http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/#what</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>Continue working on final project.</homework>
@@ -479,10 +491,12 @@
 			<activity>Workshop time</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article_url><description>Beginner's guide to Entrepreneurship</description>
+				<url>http://epiclaunch.com/guide-to-entrepreneurship/</url>
+			</article_url>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
+			<homework>Conduct internet research and figure out a good hourly rate for a freelance technical editor. Distinguish between copyediting, proofreading, and comprehensive editing.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -495,10 +509,10 @@
 			<activity>Work on your final projects</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article>No readings for today</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
+			<homework>ESL Project Due. Upload to Blackboard.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -512,10 +526,10 @@
 			<activity>Course evaluation</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article>No new readings</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
+			<homework>Work on final projects.</homework>
 		</assignments>
 	</class>
 		<class>
@@ -528,10 +542,10 @@
 			<activity>Come to class prepared to work on your final projects.</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			<article>No new readings.</article>
 		</readings>
 		<assignments>
-			<homework>TBA</homework>
+			<homework>Keep on working on final projects.</homework>
 		</assignments>
 	</class>
 	<class>

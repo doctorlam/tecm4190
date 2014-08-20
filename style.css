@@ -7,7 +7,15 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 }
-
+p.schedule {
+	font-size:14px;
+	color: #FFF6ED;
+	font-family: 'Open Sans', sans-serif;
+	margin-top:50px;
+}
+.schedule a:visited, a {
+	color: #336ca6;
+}
 header {
 	color:white;
 	font-family: 'PT Sans Narrow', sans-serif;
@@ -206,7 +214,9 @@ td.wide {
 				padding: 7px;
 			}
 	
-	
+	p.schedule {
+			text-align:center;
+		}
 		header {
 			text-align: center;
 		}
