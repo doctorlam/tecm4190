@@ -88,8 +88,8 @@
 		</assignments>
 	</class>
 	<class>
-		<week>Week 4</week>
-		<date>September 15</date>
+		<week>Week 3</week>
+		<date>September 10</date>
 		<learning-objective>
 			<objective>Students will understand the difference between copyediting and proofreading.</objective>
 		</learning-objective>
@@ -103,16 +103,16 @@
 		</class-activities>
 		<readings>
 			<article>Rude Chapters 13</article>
-			
 		</readings>
 		<assignments>
 			<homework>9.1</homework>
 		
 		</assignments>
 	</class>
+
 	<class>
 		<week>Week 4</week>
-		<date>September 17</date>
+		<date>September 15</date>
 		<learning-objective>
 			<objective>Students will be confident to complete their copyediting test.</objective>
 		</learning-objective>
@@ -124,12 +124,31 @@
 			<activity>In-Class Practice</activity>
 		</class-activities>
 		<readings>
+			<article>No new readings for today.</article>
+		</readings>
+		<assignments>
+			<homework>11.1</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 4</week>
+		<date>September 17</date>
+		<learning-objective>
+			<objective>Students will be able to copyedit with the correct copymarks without using a reference guide.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Check for understanding activity</activity>
+			<activity>Discuss readings</activity>
+			<activity>Review 11.1</activity>
+			<activity>Q+A regarding copyediting</activity>
+			<activity>In-Class Practice of copyediting exam</activity>
+		</class-activities>
+		<readings>
 			<article_url><description>Taking an editing test: The devil's in the details</description>
 				<url>http://www.geoff-hart.com/resources/2003/edit-test.htm</url>
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>11.1</homework>
 			<homework>Write a 300-word response to the article "Taking an Editing test". Guiding Question: What strategies will you use as you prepare for your editing test and why?</homework>
 		</assignments>
 	</class>
@@ -240,7 +259,7 @@
 		</readings>
 		<assignments>
 			<homework>D+A 1, 4, and 5 on pages 263-265. Type out and upload to Blackboard</homework>
-			<homework>Optional: Read Charney (1992) and write a 500-word response that summarizes the findings of the study and discusses key implications for editing resumes.</homework>
+			<homework>Optional assignment: Read Charney (1992) and write a 500-word response that summarizes the findings of the study and discusses key implications for editing resumes.</homework>
 		</assignments>
 	</class>
 	<class>
@@ -274,7 +293,7 @@
 			<objective>Students will understand the importance of building goodwill in relation to editing.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>No Class this week. I'll be out of town for a conference.</activity>
+			<activity>No Class this week. I'll be out of town for a conference. You are still responsible for completing assignments and readings.</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Locker- Building Goodwill.</description>
@@ -289,9 +308,10 @@
 		<week>Week 8</week>
 		<date>October 15</date>
 		<learning-objective>
+			<objective>Students will be able to phrase their editorial comments balancing politeness and clarity.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>No Class this week. I'll be out of town for a conference.</activity>
+			<activity>No Class this week. I'll be out of town for a conference. You are still responsible for completing assignments and readings.</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Mackiewicz and Riley (2003)- The Technical Editor as Diplomat</description>
@@ -313,9 +333,10 @@
 		<week>Week 9</week>
 		<date>October 20</date>
 		<learning-objective>
+			<objective>Students will be able to write a client memo for an editing project.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>No Class this week. I'll be in Japan as an invited speaker.</activity>
+			<activity>No Class this week. I'll be in Japan as an invited speaker. You are still responsible for completing assignments and readings.</activity>
 			<activity>I'll be taking questions via email and/or video chat</activity>
 		</class-activities>
 		<readings>
@@ -331,9 +352,10 @@
 		<week>Week 9</week>
 		<date>October 22</date>
 		<learning-objective>
+			<objective>No new learning objectives for this class period.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>No Class this week. I'll be in Japan as an invited speaker.</activity>
+			<activity>No Class this week. I'll be in Japan as an invited speaker. You are still responsible for completing assignments and readings.</activity>
 			<activity>I'll be taking questions via email and/or video chat</activity>
 		</class-activities>
 		<readings>
@@ -464,7 +486,7 @@
 		</assignments>
 	</class>
 	<class>
-		<week>Week 13</week>
+	<week>Week 13</week>
 		<date>November 17</date>
 		<learning-objective>
 			<objective>Review of comprehensive editing</objective>
@@ -477,6 +499,22 @@
 		</readings>
 		<assignments>
 			<homework>Come with 3 specfic questions about your final project.</homework>
+		</assignments>
+	</class>
+	<class>
+		<week>Week 13</week>
+		<date>November 19</date>
+		<learning-objective>
+			<objective>Students will enjoy their Thanksgiving breaks one day early!</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>I will be available in class. However, if you cannot make it, I will not officially take attendance.</activity>
+		</class-activities>
+		<readings>
+			<article>No new readings for today.</article>
+		</readings>
+		<assignments>
+			<homework>No new homework for today.</homework>
 		</assignments>
 	</class>
 	<class>
