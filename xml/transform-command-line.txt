@@ -1,0 +1,1 @@
+./fop -xml schedule.xml -xsl hw-readings-pdf.xsl -pdf hw-only.pdf
