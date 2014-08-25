@@ -13,6 +13,7 @@
 			<activity>Syllabus and course review</activity>
 			<activity>Assign grammar diagnostic</activity>
 			<activity>Assign 4.1</activity>
+			<activity>Assign 4.3 (optional practice)</activity>
 		</class-activities>
 		<readings>
 			<article>N/A</article>
@@ -30,7 +31,7 @@
 		</learning-objective>
 		<class-activities>
 			<activity>Check for understanding: line-up</activity>
-			<activity>Review 4.3</activity>
+			<activity>Review 4.1 and 4.3</activity>
 			<activity>Copymarks practice and review</activity>
 			<activity>Lecture - Grammar Review</activity>
 			<activity>Grammar races</activity>
@@ -42,7 +43,8 @@
 		</readings>
 		<assignments>
 			<homework>Grammar Diagnostic</homework>
-			<homework>4.3</homework>
+			<homework>Exercise 4.1</homework>
+			<homework>Exercise 4.3 (optional practice)</homework>
 		</assignments>
 	</class>
 	<class>
