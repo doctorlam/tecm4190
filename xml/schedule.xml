@@ -30,7 +30,6 @@
 			<objective>Students will be able to use copymarks correctly.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Check for understanding: line-up</activity>
 			<activity>Review grammar diagnostic, 4.1, and 4.3</activity>
 			<activity>Copymarks practice and review</activity>
 			<activity>Lecture - Grammar Review</activity>
@@ -39,7 +38,9 @@
 			<activity>Assign practice copyediting test</activity>
 		</class-activities>
 		<readings>
-			<article>Rude Chapters 4, 7, and 10.</article>
+			<article>Rude ch. 4 - Marking Paper Copy</article>
+			<article>Rude ch. 7 - Basic Copyediting: An Introduction</article>
+			<article>Rude ch. 10 - Grammar and usage</article>
 		</readings>
 		<assignments>
 			<homework>Grammar Diagnostic</homework>
@@ -55,14 +56,16 @@
 			<objective>Students will be able to identify common errors when editing quantitative material.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Check for understanding- class line up</activity>
+			<activity>Human Likert Scale</activity>
 			<activity>Discussion of readings</activity>
 			<activity>Lecture - Punctuation</activity>
 			<activity>Punctuation Race</activity>
-			<activity>Assign 11.3 Part 1</activity>
+			<activity>Assign 11.1 Part 1</activity>
 		</class-activities>
 		<readings>
-			<article>Rude Chapters 11 and 12</article>
+			<article>Rude ch. 8 - Coyediting for consistency</article>
+			<article>Rude ch. 11 - Punctuation</article>
+			<article>Rude ch. 12 - Quantitative and Technical Material</article>
 		</readings>
 		<assignments>
 			<homework>10.1</homework>
@@ -82,10 +85,10 @@
 			<activity>Assign 9.1</activity>
 		</class-activities>
 		<readings>
-			<article>Rude Chapter 9</article>
+			<article>Rude ch. 9 - Spelling, Capitalization, and Abbreviations</article>
 		</readings>
 		<assignments>
-			<homework>11.3 Part 1</homework>
+			<homework>11.1 Part 1</homework>
 			<homework>Practice copyediting test due</homework>
 		</assignments>
 	</class>
@@ -104,7 +107,7 @@
 			<activity>Assign 11.1</activity>
 		</class-activities>
 		<readings>
-			<article>Rude Chapters 13</article>
+			<article>Rude ch. 13 - Proofreading</article>
 		</readings>
 		<assignments>
 			<homework>9.1</homework>
@@ -190,7 +193,7 @@
 			<activity>Handout Wolfe reading and assign team role homework</activity>
 		</class-activities>
 		<readings>
-			<article>Rude Chapter 14</article>
+			<article>Rude ch. 14 - Comprehensive Editing: Definition and Process</article>
 		</readings>
 		<assignments>
 			<homework>Copyediting Exam Due</homework>
@@ -228,7 +231,7 @@
 			<activity>Assign D+A questions 1, 4, and 5 on pages 263-265</activity>
 		</class-activities>
 		<readings>
-			<article>Rude Chapter 17</article>
+			<article>Rude ch. 17 - Organization: The Architecture of Information</article>
 		</readings>
 		<assignments>
 			<homework>A 150-300 word summary of client who needs job materials edited. Include information about the client, their career, and the job sector for which they are applying to. Upload to Blackboard.</homework>
