@@ -201,10 +201,13 @@
 		<class-activities>
 			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
+			<activity>Conciseness Exercise</activity>
 			<activity>Create team charter</activity>
 		</class-activities>
 		<readings>
-			<article>Team writing chapter from Joanna Wolfe (will handout in previous class)</article>
+			<article_url><description>Team writing chapter from Joanna Wolfe</description>
+				<url>http://courses.christopherylam.com/4190/readings/teamwork.pdf</url>
+			</article_url>
 		</readings>
 		<assignments>
 			<homework>Come to class with a written set of team roles</homework>
