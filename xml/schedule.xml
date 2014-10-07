@@ -201,8 +201,7 @@
 		<class-activities>
 			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
-			<activity>Conciseness Exercise</activity>
-			<activity>Create team charter</activity>
+			<activity>Conciseness and Parallelism Exercise</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Team writing chapter from Joanna Wolfe</description>
@@ -222,7 +221,7 @@
 		<class-activities>
 			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
-			<activity>Organization Lecture</activity>
+			<activity>Organization and cohesion exercise</activity>
 			<activity>Work in Groups</activity>
 			<activity>Assign D+A questions 1, 4, and 5 on pages 263-265</activity>
 		</class-activities>
@@ -231,6 +230,7 @@
 		</readings>
 		<assignments>
 			<homework>A 150-300 word summary of client who needs job materials edited. Include information about the client, their career, and the job sector for which they are applying to. Upload to Blackboard.</homework>
+			<homework>Conciseness Contest - See Resources Page</homework>
 		</assignments>
 	</class>
 	<class>
@@ -243,7 +243,7 @@
 			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
 			<activity>Discuss homework</activity>
-			<activity>Resume lecture</activity>
+			<activity>Resume and cover letter lecture</activity>
 			<activity>Resume analysis and activity</activity>
 			<activity>Assign article summary homework</activity>
 		</class-activities>
@@ -272,8 +272,7 @@
 		<class-activities>
 			<activity>Check for understanding activity</activity>
 			<activity>Discuss readings</activity>
-			<activity>Cover letter lecture</activity>
-			<activity>Cover letter analysis and activity</activity>
+			<activity>Active versus Passive voice and Word choice and tone</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Cover Letter Workshop- Formatting and Organization</description>
