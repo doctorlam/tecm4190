@@ -383,7 +383,6 @@
 			<activity>Review and recap/discuss readings.</activity>
 			<activity>ESL lecture and discussion</activity>
 			<activity>ESL application activity</activity>
-			<activity>Assign open heart surgery homework</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>ESL: When editing becomes educating</description>
@@ -404,15 +403,16 @@
 			<objective>Students will be able to understand and edit complex or technical content not in their subject-matter area.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Review open heart surgery. 5 people will share.</activity>
+			<activity>Review ESL activity</activity>
 			<activity>Subject-matter research activity</activity>
-			<activity>Assign subject-matter scavenger hunt</activity>
+			<activity>Assign ESL clients</activity>
 		</class-activities>
 		<readings>
 			<article>Rude chapters 17, 18, and 19</article>
 		</readings>
 		<assignments>
-			<homework>Open Heart Surgery</homework>
+			<homework>Finish ESL activity</homework>
+			<homework>Watch Style Videos</homework>
 		</assignments>
 	</class>
 	<class>
@@ -425,6 +425,7 @@
 			<activity>Review subject-matter scavenger hunt</activity>
 			<activity>Empirical research lecture and discussion</activity>
 			<activity>Consuming research activity</activity>
+			<activity>Assign style editing of academic writing</activity>
 		</class-activities>
 		<readings>
 			<article_url><description>Writing the empirical social science research paper: A guide for the perplexed</description>
@@ -432,7 +433,7 @@
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Subject-matter scavenger hunt</homework>
+			<homework>Finish Style Videos</homework>
 		</assignments>
 	</class>
 	<class>
@@ -452,6 +453,7 @@
 		</readings>
 		<assignments>
 			<homework>Vote!</homework>
+			<homework>Style editing of academic writing</homework>
 		</assignments>
 	</class>
 	<class>
@@ -464,7 +466,7 @@
 			<activity>Review and discuss readings</activity>
 			<activity>Visual design lecture</activity>
 			<activity>Visual design activty</activity>
-			<activity>Assign design assignment</activity>
+			<activity>Assign open heart surgery</activity>
 		</class-activities>
 		<readings>
 			<article>Rude chapter 19</article>
@@ -490,7 +492,7 @@
 			</article_url>
 		</readings>
 		<assignments>
-			<homework>Continue working on final project.</homework>
+			<homework>Open heart surgery</homework>
 		</assignments>
 	</class>
 	<class>
