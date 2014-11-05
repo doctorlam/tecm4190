@@ -440,17 +440,17 @@
 		<week>Week 11</week>
 		<date>November 5</date>
 		<learning-objective>
-			<objective>Students will understand how editing websites differs from editing traditional print documents.</objective>
+			<objective>Students will be prepared to complete their ESL project confidently.</objective>
 		</learning-objective>
 		<class-activities>
-			<activity>Review research activity</activity>
-			<activity>Editing for the web lecture</activity>
-			<activity>Heurisitc evaluation activity</activity>
-			<activity>Assign proposal for final project</activity>
+			<activity>Review and discuss comprehensive editing project</activity>
+			<activity>Review IMRaD Structure</activity>
+			<activity>ESL Editing activity</activity>
 		</class-activities>
 		<readings>
-			<article>TBA</article>
+			
 		</readings>
+	
 		<assignments>
 			<homework>Vote!</homework>
 			<homework>Comprehensive editing of academic writing</homework>
@@ -478,6 +478,25 @@
 			<class>
 		<week>Week 12</week>
 		<date>November 12</date>
+			<learning-objective>
+			<objective>Students will understand how editing websites differs from editing traditional print documents.</objective>
+		</learning-objective>
+		<class-activities>
+			<activity>Review research activity</activity>
+			<activity>Editing for the web lecture</activity>
+			<activity>Heurisitc evaluation activity</activity>
+			<activity>Assign proposal for final project</activity>
+		</class-activities>
+		<readings>
+			<article>TBA</article>
+		</readings>
+		<assignments>
+			<homework>Open heart surgery</homework>
+		</assignments>
+	</class>
+	<class>
+	<week>Week 13</week>
+		<date>November 17</date>
 		<learning-objective>
 			<objective>Students will understand the core principles of information architecture as it relates to technical editing.</objective>
 		</learning-objective>
@@ -490,22 +509,6 @@
 			<article_url><description>Complete beginner's guide to information architecture</description>
 				<url>http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/#what</url>
 			</article_url>
-		</readings>
-		<assignments>
-			<homework>Open heart surgery</homework>
-		</assignments>
-	</class>
-	<class>
-	<week>Week 13</week>
-		<date>November 17</date>
-		<learning-objective>
-			<objective>Review of comprehensive editing</objective>
-		</learning-objective>
-		<class-activities>
-			<activity>Today's class will be used as a review and a time to answer any lingering questions regarding the final project.</activity>
-		</class-activities>
-		<readings>
-			<article>TBA</article>
 		</readings>
 		<assignments>
 			<homework>Come with 3 specfic questions about your final project.</homework>
